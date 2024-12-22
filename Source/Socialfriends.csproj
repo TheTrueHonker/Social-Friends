@@ -51,7 +51,6 @@
   <ItemGroup>
     <Compile Include="Harmony.cs" />
     <Compile Include="Misc\NumberMapper.cs" />
-    <Compile Include="Patches\JobDriver_StandAndBeSociallyActive_Patch.cs" />
     <Compile Include="Patches\Pawn_InteractionsTracker_Patch.cs" />
     <Compile Include="Socialfriends.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
